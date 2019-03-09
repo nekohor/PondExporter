@@ -1,0 +1,11 @@
+C:\NutCloudSync\code\PondExporter\bin\Debug\netcoreapp2.2\PondExporter.deps.json
+C:\NutCloudSync\code\PondExporter\bin\Debug\netcoreapp2.2\PondExporter.runtimeconfig.json
+C:\NutCloudSync\code\PondExporter\bin\Debug\netcoreapp2.2\PondExporter.runtimeconfig.dev.json
+C:\NutCloudSync\code\PondExporter\bin\Debug\netcoreapp2.2\PondExporter.dll
+C:\NutCloudSync\code\PondExporter\bin\Debug\netcoreapp2.2\PondExporter.pdb
+C:\NutCloudSync\code\PondExporter\obj\Debug\netcoreapp2.2\PondExporter.csprojAssemblyReference.cache
+C:\NutCloudSync\code\PondExporter\obj\Debug\netcoreapp2.2\PondExporter.csproj.CoreCompileInputs.cache
+C:\NutCloudSync\code\PondExporter\obj\Debug\netcoreapp2.2\PondExporter.AssemblyInfoInputs.cache
+C:\NutCloudSync\code\PondExporter\obj\Debug\netcoreapp2.2\PondExporter.AssemblyInfo.cs
+C:\NutCloudSync\code\PondExporter\obj\Debug\netcoreapp2.2\PondExporter.dll
+C:\NutCloudSync\code\PondExporter\obj\Debug\netcoreapp2.2\PondExporter.pdb

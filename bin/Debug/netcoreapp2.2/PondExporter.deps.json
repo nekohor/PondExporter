@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "c266055326ab71142172853a9a2baf49beb1ac8d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "PondExporter/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "ini-parser": "3.4.0"
+        },
+        "runtime": {
+          "PondExporter.dll": {}
+        }
+      },
+      "ini-parser/3.4.0": {
+        "runtime": {
+          "lib/net20/INIFileParser.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PondExporter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ini-parser/3.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HGnEiHTQO/gQuInzDV6aJafjYsJgjMgFZtLv6Ne0cZuT4aTf9as5pCFONIrJvh9uyXSutBsAUr2C/E0j4nXclw==",
+      "path": "ini-parser/3.4.0",
+      "hashPath": "ini-parser.3.4.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    }
+  }
+}
